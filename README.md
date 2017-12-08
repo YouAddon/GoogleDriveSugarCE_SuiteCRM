@@ -1,6 +1,6 @@
 ## Documents sync to Dropbox for SugarCE/SuiteCRM
 
-### Developer by YouAddOn Team: https://youaddon.com
+### Develop by YouAddOn Team: https://youaddon.com
 ### We do CRM systems (SugarCRM, vTigerCRM, OroCRM), Wordpress, Open Source System and integrate them together.
 
 ## Require 
